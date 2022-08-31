@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: <code>The result of ${a} * ${b} is ${a * b}</code>
+- text: <code>The result of 0 * -1 is 0</code>
+- text: <code>The result of 0 is 0</code>
+- text: <code>The result of 0 * -1 is 0 * -1</code>
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17749#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 26 Aug 2022 17:32:33 UTC
+record: -1
+selected_options:
+- 0
+local_check: false

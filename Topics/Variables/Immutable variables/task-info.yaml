@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: val
+- text: final
+- text: let
+- text: const
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8188#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 23 Aug 2022 05:07:20 UTC
+record: -1
+selected_options:
+- 3
+local_check: false

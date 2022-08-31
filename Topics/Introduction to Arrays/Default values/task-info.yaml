@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: '[undefined, undefined, undefined, undefined]'
+- text: '[undefined]'
+- text: '[4, 4, 4, 4]'
+- text: '[4]'
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16144#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 29 Aug 2022 18:45:19 UTC
+record: -1
+selected_options:
+- 0
+local_check: false

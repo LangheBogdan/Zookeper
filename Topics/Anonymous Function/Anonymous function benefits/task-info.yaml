@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: can be called immediately after the function definition
+- text: easy to use as a function argument
+- text: code brevity
+- text: easy to reuse in another part of the code
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10867#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: Mon, 29 Aug 2022 12:46:29 UTC
+record: -1
+selected_options:
+- 0
+local_check: false

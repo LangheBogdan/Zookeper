@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: A
+- text: B
+- text: C
+- text: D
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10869#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 29 Aug 2022 12:43:11 UTC
+record: -1
+selected_options:
+- 2
+local_check: false
